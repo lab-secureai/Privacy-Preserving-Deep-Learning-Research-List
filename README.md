@@ -17,14 +17,19 @@ In the realm of machine learning, privacy leakages happen when flaws in models o
 # Input Sharing
 
 In this setup, a service provider server handles both model training and deployment. User data undergo various protection methods like Secure Multiparty Computation (SMC), Homomorphic Encryption (HE), etc., before being transferred to the server. All training and prediction occur centrally on the server. Centralized learning offers several advantages:
+- It reduces client computation resources, requiring only transformed data sharing.
+- It supports collaboration in an unstable network environment.
+- It allows for operations on non-identically distributed data (non-iid).
+- It efficiently handles models with minimal data, such as fully distributed data models.
+- It enables constructing versatile models from shared data for various purposes.
 
-    It reduces client computation resources, requiring only transformed data sharing.
-    It supports collaboration in an unstable network environment.
-    It allows for operations on non-identically distributed data (non-iid).
-    It efficiently handles models with minimal data, such as fully distributed data models.
-    It enables constructing versatile models from shared data for various purposes.
+Due to these benefits, centralized learning has garnered significant attention. Original data are transformed using HE algorithms, SMC protocols, secret sharing techniques, or noise addition before sharing with the server. These data transformation methods can be categorized in three main techniques: cryptography-based, data obfuscation, and secure enclaves-based techniques.
 
-Due to these benefits, centralized learning has garnered significant attention. The paper explores privacy-preserving techniques for a centralized DL model, emphasizing data privacy through shared input transformations. Original data are transformed using HE algorithms, SMC protocols, secret sharing techniques, or noise addition before sharing with the server. The article categorizes studies based on data transformation methods: cryptography-based, data obfuscation, and secure enclaves-based techniques.
+## Cryptography-based methods
+
+## Data obfuscation methods
+
+## Other methods
 
 # Model Sharing
 
