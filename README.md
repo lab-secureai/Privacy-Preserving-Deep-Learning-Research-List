@@ -9,13 +9,14 @@ This list provides up-to-date resources pertaining to the research and developme
 - [Privacy Leakages of ML/FL](#privacy-leakages-of-mlfl)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 
+
+# Privacy Leakages
+
 # Input Sharing
 
 # Model Sharing
 
 # Output Sharing
-
-# Privacy Leakages
 
 # Libraries and Frameworks
 
