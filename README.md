@@ -1,8 +1,18 @@
-# Privacy Preserving Deep Learning Research List
+<h1 align="center"><b>Privacy Preserving Deep Learning Research List</b></h1>
+<p align="center">
+    <a href="https://github.com/AndrewZhou924/Awesome-model-inversion-attack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+    <img src="https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star" alt="Stars" >
+</p>
+This list provides up-to-date resources pertaining to the research and development of privacy-preserving deep learning, with many of them cited in the paper titled "[A Comprehensive Survey and Taxonomy on Privacy-Preserving Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001164)". It will be consistently updated to reflect the latest findings and developments in the field of Privacy-Preserving Deep Learning (PPDL).  
 
-This list provides up-to-date resources pertaining to the research and development of privacy-preserving deep learning, with many of them cited in the paper titled "[A Comprehensive Survey and Taxonomy on Privacy-Preserving Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001164)". It will be consistently updated to reflect the latest findings and developments in the field of Privacy-Preserving Deep Learning (PPDL).
+Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
 
-## Content
+<p align="center">
+    <img src="[https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star](https://www.researchgate.net/publication/349310362/figure/fig1/AS:991346454192128@1613366821040/Privacy-preserving-machine-learning-and-multi-party-computation-techniques-a-Secret.png)" alt="Privacy Preserving Deep Learning" >
+</p>
+
+**Outlines:**
 - [Privacy Leakages](#privacy-leakages)
 - [Input Sharing](#input-sharing)
 - [Model Sharing](#model-sharing)
@@ -14,7 +24,8 @@ This list provides up-to-date resources pertaining to the research and developme
 
 In the realm of machine learning, privacy leakages happen when flaws in models or systems unintentionally reveal confidential data of individuals involved in training or inference processes. These vulnerabilities can lead to various attacks like model inversion, membership inference, attribute inference, model extraction, and data poisoning, presenting risks such as privacy violations and discriminatory consequences. This section will outline cutting-edge attacks on deep learning models that result in privacy leakages.
 
-## Computer vision domain
+## Model Inversion Attacks
+
 <!-- | Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
 | ---- | ----- | -------------------- | ----- | ---------- | --------- |
 | 2014 | Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing | white-box | Security | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf) | |
