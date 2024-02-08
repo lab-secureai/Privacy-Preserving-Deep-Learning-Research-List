@@ -8,11 +8,8 @@ This list provides up-to-date resources pertaining to the research and developme
 
 Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
 
-[<img src="[path/to/image.png](https://www.researchgate.net/publication/349310362/figure/fig1/AS:991346454192128@1613366821040/Privacy-preserving-machine-learning-and-multi-party-computation-techniques-a-Secret.png)">](https://link-to-your-URL/)
+[<img src="https://www.researchgate.net/publication/349310362/figure/fig1/AS:991346454192128@1613366821040/Privacy-preserving-machine-learning-and-multi-party-computation-techniques-a-Secret.png">](https://www.researchgate.net/publication/349310362/figure/fig1/AS:991346454192128@1613366821040/Privacy-preserving-machine-learning-and-multi-party-computation-techniques-a-Secret.png)
 
-<p align="center">
-    <img src="[https://www.researchgate.net/publication/349310362/figure/fig1/AS:991346454192128@1613366821040/Privacy-preserving-machine-learning-and-multi-party-computation-techniques-a-Secret.png]" alt="Privacy Preserving Deep Learning" >
-</p>
 
 **Outlines:**
 - [Privacy Leakages](#privacy-leakages)
