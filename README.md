@@ -10,11 +10,15 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 ![alt text](https://github.com/lab-secureai/Privacy-Preserving-Deep-Learning-Research-List/blob/main/img/ppdl1.JPG?raw=true)
 
 **Outlines:**
+- [Surveys and Overviews](#survey-and-overviews)
 - [Privacy Leakages](#privacy-leakages)
 - [Input Sharing](#input-sharing)
 - [Model Sharing](#model-sharing)
 - [Output Sharing](#output-sharing)
 - [Libraries and Frameworks](#libraries-and-frameworks)
+
+# Surveys and Overviews
+
 
 
 # Privacy Leakages
