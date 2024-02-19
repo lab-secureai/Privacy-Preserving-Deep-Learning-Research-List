@@ -1,8 +1,7 @@
 <h1 align="center"><b>Privacy Preserving Deep Learning Research List</b></h1>
 <p align="center">
     <a href="https://github.com/AndrewZhou924/Awesome-model-inversion-attack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
-    <img src="https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star" alt="Stars" >
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a> 
 </p>
 This list provides up-to-date resources pertaining to the research and development of privacy-preserving deep learning, with many of them cited in the paper titled ["A Comprehensive Survey and Taxonomy on Privacy-Preserving Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001164). It will be consistently updated to reflect the latest findings and developments in the field of Privacy-Preserving Deep Learning (PPDL).  
 
