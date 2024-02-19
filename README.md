@@ -5,9 +5,9 @@
 </p>
 This list provides up-to-date resources pertaining to the research and development of privacy-preserving deep learning, with many of them cited in the paper titled ["A Comprehensive Survey and Taxonomy on Privacy-Preserving Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001164). It will be consistently updated to reflect the latest findings and developments in the field of Privacy-Preserving Deep Learning (PPDL).  
 
-Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
-
 ![alt text](https://github.com/lab-secureai/Privacy-Preserving-Deep-Learning-Research-List/blob/main/img/ppdl1.JPG?raw=true)
+
+**Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!**
 
 **Outlines:**
 - [Surveys and Overviews](#survey-and-overviews)
@@ -19,7 +19,8 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 
 # Surveys and Overviews
 
-
+<!-- | Year | Title | Venue | Paper Link | Code Link |
+| ---- | ----- | -------------------- | ----- | ---------- | --------- |
 
 # Privacy Leakages
 
