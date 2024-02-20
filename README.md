@@ -19,8 +19,10 @@ This list provides up-to-date resources pertaining to the research and developme
 
 # Surveys and Overviews
 
-<!-- | Year | Title | Venue | Paper Link | Code Link |
-| ---- | ----- | -------------------- | ----- | ---------- | --------- |
+<!-- | Year | Title | Venue | Paper Link | Coverage |
+| ---- | -------------------------- | ----- | ---------- | --------- |
+| 2020 | Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks | [Paper]() | Privacy Attack | -->
+
 
 # Privacy Leakages
 
